@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "wallabyjs.quokka-vscode",
+        "miramac.vscode-exec-node",
+        "waderyan.nodejs-extension-pack"
+    ]
+}
