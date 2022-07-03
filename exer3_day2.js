@@ -1,7 +1,7 @@
  console.log(typeof 'basheeroh')
 console.log(typeof 20)
-let firstName
-console.log(firstName)
+let firstname
+console.log(firstname)
 console.log(typeof 'true')
 console.log(typeof null)
 
@@ -52,7 +52,7 @@ let string='Love is the best thing in this world. Some found their love and some
 let pattern=/love/gi
 console.log(string.match(pattern))
 
-let string2='You cannot end a sentence with because because because is a conjunction'
+let string3='You cannot end a sentence with because because because is a conjunction'
 let pattern2=/because/gi
 console.log(string2.match(pattern2))
 
@@ -60,5 +60,5 @@ const sentence = '%I $am@% a %tea@cher%, &and& I lo%#ve %te@a@ching%;. The@re $i
 console.log(sentence.replace(/[%$@&#]/g,''))
 
 let r=5
-let b=6
+let b=7
 console.log(r+b)

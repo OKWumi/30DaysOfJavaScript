@@ -55,5 +55,5 @@ console.log(). After you decide the result confirm it using console.log()
 4 === '4'
 Find the length of python and jargon and make a falsy comparison statement.
 */
-console.log(4>3)
+console.log(4==3)
 console.log

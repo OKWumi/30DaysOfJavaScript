@@ -1,2 +1,2 @@
-console.log('Hello World!')
+console.log('Hello!')
 let randomNum = Math.random() // generates 0 to 0.999...
